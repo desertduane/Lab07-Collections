@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\bin\Debug\netcoreapp2.0\lab07-duane.deps.json
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\bin\Debug\netcoreapp2.0\lab07-duane.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\bin\Debug\netcoreapp2.0\lab07-duane.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\bin\Debug\netcoreapp2.0\lab07-duane.dll
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\bin\Debug\netcoreapp2.0\lab07-duane.pdb
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.dll
+C:\Users\Duane Rush\source\repos\Lab07-Collections\lab07-duane\lab07-duane\obj\Debug\netcoreapp2.0\lab07-duane.pdb
