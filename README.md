@@ -12,11 +12,14 @@
 - Create a custom generic collection for an e-commerce store to hold their inventory of products
   - *Hint: Your generic collection should be Inventory\<Product>*
 - Include an enum in your *Product*
+- Add properties and methods to the Product class to make it mimic what an actual product class may actually have.
 - Make sure the generic has the functionality to use a foreach loop.
 - Your generic collection sould `Add()`, `Remove()` items in the collection
-- **Stretch** - if there is time, make it so you can `ViewAll` and create a method to output all items to the console
+- Your generic collection should dynamically resize accordingly when doing the Add() & Remove() actions.
 - Add at least 10 items to your List, and output them to the console.
     - Add some items through the `Add()` Method, and others through a *collection initializer* 
+- **Stretch** - if there is time, make it so you can `ViewAll` and create a method to output all items to the console
+- **Stretch** Look further into the Yield Break & Yield Return statemetns and figure out what is actually happening. Can you implement/replace that into your project?
 ## ReadMe
 - Your readme should include the following information:
 	- How long did it take you to complete this assignment?
