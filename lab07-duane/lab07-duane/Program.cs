@@ -16,6 +16,7 @@ namespace lab07_duane
             phone.NewProduct = Product.phone;
 
             ECommerseStore.Add(phone);
+
             ECommerseStore.Add(new Products() { NewProduct = Product.backpack });
             ECommerseStore.Add(new Products() { NewProduct = Product.bike });
             ECommerseStore.Add(new Products() { NewProduct = Product.book });
@@ -35,6 +36,16 @@ namespace lab07_duane
                 Console.WriteLine(p.Sale);
                 Console.WriteLine();
             }
+            Console.WriteLine();
+
+            //remove
+            ECommerseStore.Remove(phone);
+            
+            foreach(Products p in ECommerseStore)
+            {
+                Console.WriteLine(p.NewProduct);
+            }
+
         Console.Read();
         }
     }

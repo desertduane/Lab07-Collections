@@ -23,12 +23,29 @@ namespace lab07_duane
 
         public void Remove(T product)
         {
+            int removeAt = Array.IndexOf(products, product);
+            bool remove = false;
+            T[] newArray = new T[products.Length];
+
             for (var i = 0; i < products.Length; i++)
             {
-                
+                 if (remove)
+                {
+                    newArray[i - 1] = products[i];
+                }
 
-            }   
-            
+                 if (i != removeAt && !remove)
+                {
+                    newArray[i] = products[i];
+                }
+                else
+                {
+                    remove = true;
+                }
+
+            }
+            products = newArray;
+            productCount--;
         }
 
         public IEnumerator<T> GetEnumerator()
